@@ -1,0 +1,1 @@
+export { TrendingFashionCarousel } from "./TrendingFashionCarousel";

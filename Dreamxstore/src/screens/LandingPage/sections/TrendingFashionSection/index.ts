@@ -1,0 +1,1 @@
+export { TrendingFashionSection } from "./TrendingFashionSection";

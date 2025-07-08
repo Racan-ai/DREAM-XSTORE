@@ -1,0 +1,1 @@
+export { TrendingFashionCards } from "./TrendingFashionCards";
